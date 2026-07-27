@@ -7,6 +7,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0001-two-sum/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,16 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
