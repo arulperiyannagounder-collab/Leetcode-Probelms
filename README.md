@@ -10,6 +10,7 @@ My Leetcode problem Collection
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0704-binary-search/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Hash Table
@@ -39,6 +40,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,8 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
