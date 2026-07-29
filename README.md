@@ -69,6 +69,7 @@ My Leetcode problem Collection
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
