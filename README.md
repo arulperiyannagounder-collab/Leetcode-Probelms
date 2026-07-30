@@ -22,6 +22,7 @@ My Leetcode problem Collection
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -78,4 +79,8 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0206-reverse-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
