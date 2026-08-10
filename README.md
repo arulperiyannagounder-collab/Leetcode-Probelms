@@ -23,6 +23,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
@@ -85,4 +86,16 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
