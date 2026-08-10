@@ -23,6 +23,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0141-linked-list-cycle/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
