@@ -13,6 +13,7 @@ My Leetcode problem Collection
 | [0303-range-sum-query-immutable](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0704-binary-search/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
