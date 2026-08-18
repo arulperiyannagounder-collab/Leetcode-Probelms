@@ -24,6 +24,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -55,6 +56,7 @@ My Leetcode problem Collection
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -101,4 +103,12 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
