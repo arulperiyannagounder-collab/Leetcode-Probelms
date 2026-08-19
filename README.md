@@ -15,6 +15,7 @@ My Leetcode problem Collection
 | [0704-binary-search](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0704-binary-search/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +62,7 @@ My Leetcode problem Collection
 | [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0053-maximum-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
