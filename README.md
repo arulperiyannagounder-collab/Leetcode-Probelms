@@ -28,6 +28,7 @@ My Leetcode problem Collection
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -92,10 +93,12 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
+| [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
