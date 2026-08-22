@@ -13,6 +13,7 @@ My Leetcode problem Collection
 | [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -99,6 +100,7 @@ My Leetcode problem Collection
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
+| [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0015-3sum/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
