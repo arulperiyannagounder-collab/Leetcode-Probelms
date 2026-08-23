@@ -17,6 +17,7 @@ My Leetcode problem Collection
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,5 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
