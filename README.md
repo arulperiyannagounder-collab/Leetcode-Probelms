@@ -32,6 +32,7 @@ My Leetcode problem Collection
 | [0345-reverse-vowels-of-a-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Counting
@@ -103,6 +104,7 @@ My Leetcode problem Collection
 | [0020-valid-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
