@@ -134,4 +134,20 @@ My Leetcode problem Collection
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0735-asteroid-collision/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
