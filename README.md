@@ -65,6 +65,7 @@ My Leetcode problem Collection
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0053-maximum-subarray/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Queue
@@ -141,12 +142,14 @@ My Leetcode problem Collection
 | [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,9 @@ My Leetcode problem Collection
 | [0104-maximum-depth-of-binary-tree](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
