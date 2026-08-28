@@ -143,6 +143,7 @@ My Leetcode problem Collection
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@ My Leetcode problem Collection
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,8 +164,13 @@ My Leetcode problem Collection
 | [0112-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
