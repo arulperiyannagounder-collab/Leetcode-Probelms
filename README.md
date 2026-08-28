@@ -8,6 +8,7 @@ My Leetcode problem Collection
 | ------- | ------- |
 | [0001-two-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -91,6 +92,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0141-linked-list-cycle/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1768-merge-strings-alternately/) | Easy |
