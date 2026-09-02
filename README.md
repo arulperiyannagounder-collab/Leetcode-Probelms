@@ -19,6 +19,7 @@ My Leetcode problem Collection
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@ My Leetcode problem Collection
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/arulperiyannagounder-collab/Leetcode-Probelms/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
